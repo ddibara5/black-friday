@@ -1,4 +1,4 @@
-# Walmart Black Friday Exploratory Analysis
+# Walmart Black Friday Purchase Analysis
 
 ## Overview
 
