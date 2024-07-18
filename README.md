@@ -21,3 +21,4 @@ Raw data was downloaded from the data projects section of [stratascratch.com](ht
 
 ![image](https://github.com/user-attachments/assets/4317f74b-d825-45d5-8716-d2faf55d282d)
 
+![image](https://github.com/user-attachments/assets/c94f96d5-f1bc-43f7-84a4-3800eb4c82ad)
